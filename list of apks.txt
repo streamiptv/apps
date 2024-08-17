@@ -1,0 +1,18 @@
+###Works with (hardcoded apps only)###
+
+Smarters
+Smarters player
+XCIPTV
+Dark Media 2.0+
+LXstream
+OTT Nav
+OTT Platinum 1.8
+Femto
+Xtream IPTV Player
+SnapTV
+
+##test
+
+devbean - strips all folders in panel url
+supaQ - needs work
+New Shak STB - needs work

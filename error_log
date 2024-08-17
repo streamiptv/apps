@@ -1,0 +1,1 @@
+[20-May-2024 20:15:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/skylineu/ibo.continentaltecnology.com/megapainel/includes/header.php on line 6
